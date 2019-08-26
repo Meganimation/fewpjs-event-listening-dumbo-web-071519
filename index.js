@@ -1,2 +1,4 @@
-function addingEventListener() {
+function addingEventListener('click', function(event)) {
+  
+  
 }
